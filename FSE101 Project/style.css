@@ -13,6 +13,7 @@ nav {
 h1 {
   font-size: 3em; 
 }
+
 .home {
     font-family: 'Roboto', sans-serif;
     color: white;
@@ -27,6 +28,9 @@ h1 {
     margin-right: 3%;
 }
 
+.nav-links a {
+    color: black;
+}
 
 .top-sec {
     background-color: grey;
